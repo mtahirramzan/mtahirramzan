@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Muhammad Tahir Ramzan
 
-<!--
-**mtahirramzan/mtahirramzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Computer Science graduate (2025) from NFC Institute of Engineering and Technology, Multan, Pakistan.
 
-Here are some ideas to get you started:
+## Research interests
+- Machine learning for health and wearable/IoT sensor data
+- Explainable models for health-risk prediction
+- Reliable and reproducible evaluation of machine learning models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Publications
+- Ramzan, M. T., et al. (2025). AI-based remote health monitoring system using IoT and machine learning. *Kashf Journal of Multidisciplinary Research*, 2(7), 266-280. https://doi.org/10.71146/kjmr564
+- Mujahid, N., Ramzan, M. T., et al. (2025). Optimizing IoT data analytics with machine learning techniques for smart cities. *Kashf Journal of Multidisciplinary Research*, 2(7), 248-265.
+
+## Currently
+Extending my MS thesis work to larger public datasets, and looking for PhD opportunities in Europe in machine learning for healthcare.
+
+## Contact
+- Email: tahirramzan6558@gmail.com
+- Google Scholar: https://scholar.google.com/citations?user=rnLAqmYAAAAJ
